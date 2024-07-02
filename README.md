@@ -1,34 +1,28 @@
 # weather-project
 
-This template should help get you started developing with Vue 3 in Vite.
+Шаблон разработки Vue + Vite
 
-## Recommended IDE Setup
+## Настройка проекта
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+Для установки зависимостей необходимо перейти в папку проекта и выполнить
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Запуск проекта
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Сборка под рабочую среду
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Проверка кода при помощи линтера (можно использовать при доработке проекта под свои нужды для выявления потенциальных проблем)
 
 ```sh
 npm run lint
