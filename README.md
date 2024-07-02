@@ -1,4 +1,4 @@
-# weather-project
+# vue-getWeather
 
 Шаблон разработки Vue + Vite
 
