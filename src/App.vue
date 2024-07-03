@@ -32,7 +32,6 @@ onMounted(() => {
   })
     .then(result => {
       cities.value = result.data.edges.map(item => item.node.name);
-      console.log("cities.value: ", cities.value);
     })
 });
 
